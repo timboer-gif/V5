@@ -27,6 +27,7 @@ import './utils/FastEtherwarp';
 import './utils/Misc';
 import './failsafes/FailsafeManager';
 import './utils/SkyblockEvents';
+import './utils/AuctionPrices';
 
 /* Modules */
 import './modules/loader';
